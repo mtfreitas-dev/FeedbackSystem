@@ -1,4 +1,3 @@
-public with sharing class GoogleSentimentService {
 public with sharing class GoogleSentimentService implements Queueable, Database.AllowsCallouts {
 
     //Variáveis para armazenar o ID do feedback e a mensagem a ser analisada
