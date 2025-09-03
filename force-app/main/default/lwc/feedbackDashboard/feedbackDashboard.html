@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Dashboard Feedback">
+        <!-- Filtro -->
+            <template if:true={filtrar}>
+                <div class="dashboard-item">
+                    <c-filter-dashboard oncancel={handleFiltrar} onfiltrar={getData}></c-filter-dashboard>
+                </div>
+            </template>
+    </lightning-card>
+</template>
