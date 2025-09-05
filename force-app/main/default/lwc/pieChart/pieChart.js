@@ -3,7 +3,7 @@ import chartJs from '@salesforce/resourceUrl/chartJs';
 import { loadScript } from 'lightning/platformResourceLoader';
 import getFeedbacksData from '@salesforce/apex/controller.getFeedbacksData';
 
-export default class GraficDashboard extends LightningElement {
+export default class pieChart extends LightningElement {
 
     chart;
     data;

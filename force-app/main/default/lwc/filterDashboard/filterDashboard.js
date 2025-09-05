@@ -1,6 +1,6 @@
 import { LightningElement, api } from 'lwc';
 
-export default class FilterDashboard extends LightningElement {
+export default class filterDashboard extends LightningElement {
 
     valuePeriod;
     valueCategory = [];

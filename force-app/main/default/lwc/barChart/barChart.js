@@ -3,7 +3,7 @@ import chartJs from '@salesforce/resourceUrl/chartJs';
 import { loadScript } from 'lightning/platformResourceLoader';
 import getSentimentData from '@salesforce/apex/controller.getSentimentData';
 
-export default class BarGraficDashboard extends LightningElement {
+export default class barChart extends LightningElement {
     chart;
     @track chartJsInitialized = false;
     @track data = [0, 0, 0]; // Valores padrão
