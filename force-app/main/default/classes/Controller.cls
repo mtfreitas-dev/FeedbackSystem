@@ -66,7 +66,7 @@ public with sharing class controller {
     }
 
     @AuraEnabled
-    public static Map<Integer, Integer> getDataFraficDonut(Integer days, List<String> category){
+    public static Map<Integer, Integer> getDataGraficDonut(Integer days, List<String> category){
 
         if(days == null){
            days = 1000;
@@ -96,4 +96,5 @@ public with sharing class controller {
 
         return fbData;
     }
+
 }
