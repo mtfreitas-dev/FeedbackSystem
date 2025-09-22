@@ -92,7 +92,8 @@ Aplicação configurada com **Lightning App Builder**, oferecendo páginas dedic
 
 ### 📄 Formulário para criação de Feedback
 
-![Uploading {842CA291-995D-4F77-A7B2-880EB3D5A31C}.png…]()
+<img width="844" height="464" alt="{ECAFB182-5795-4A74-AA01-9B3ECAC4234F}" src="https://github.com/user-attachments/assets/c4f24610-b9b2-430e-8ef2-9bb3710f92b5" />
+
 
 ---
 
