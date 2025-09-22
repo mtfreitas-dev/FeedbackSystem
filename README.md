@@ -87,10 +87,12 @@ Aplicação configurada com **Lightning App Builder**, oferecendo páginas dedic
   - Feedbacks negativos com botão **Criar Caso**
   - Filtros por data e categoria
 
-### 📄 Página de Detalhes do Feedback
+ <img width="2554" height="1026" alt="{B5270107-0BE1-4DB7-AF1E-538A4E4E8FC8}" src="https://github.com/user-attachments/assets/0ddb5850-6e34-48f6-a3b2-651cc1a8731d" />
 
-- Layout otimizado para leitura rápida
-- Exibição de sentimento classificado e dados completos do cliente
+
+### 📄 Formulário para criação de Feedback
+
+![Uploading {842CA291-995D-4F77-A7B2-880EB3D5A31C}.png…]()
 
 ---
 
